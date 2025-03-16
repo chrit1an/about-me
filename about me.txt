@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>About Me - Christian Paul C. Espinosa</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #2c3e50;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+        .container {
+            max-width: 600px;
+            margin: auto;
+            background: rgba(255, 255, 255, 0.1);
+            padding: 20px;
+            border-radius: 10px;
+        }
+        h1 {
+            font-size: 28px;
+        }
+        p {
+            font-size: 16px;
+            line-height: 1.5;
+        }
+        .back-button {
+            display: inline-block;
+            margin-top: 15px;
+            padding: 10px 15px;
+            background: #3498db;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        .back-button:hover {
+            background: #2980b9;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>About Me</h1>
+        <p>Hi! I'm Christian Paul C. Espinosa, a Grade 9 student from the section 9-Family. I am part of the school's volleyball varsity team and proudly represent our school in competitions. I am also the president of a club for the school year 25-26.</p>
+        <p>As an only child, I dream of becoming a breadwinner to support my family in the future. This portfolio showcases my experiences, achievements, and reflections throughout the 4th quarter.</p>
+        <a href="index.html" class="back-button">Back to Main Page</a>
+    </div>
+</body>
+</html>
